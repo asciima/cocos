@@ -11,3 +11,10 @@
 #### [cc.Node(2)事件响应](/event/event.md)
 
 #### [cc.Node坐标空间](/position/position.md)
+
+#### 微信小游戏项目技术点总结
+
+##### 1.项目中公用组件解析(/componet/comFunc.md)
+
+
+
