@@ -1,16 +1,18 @@
-#### [Cocos Creator介绍](/constractor/constractor.md)
+#### cocos creator基础知识点
 
-#### [UI系统介绍](/ui/ui.md)
+#####[Cocos Creator介绍](/constractor/constractor.md)
 
-#### [create创建第一个项目](/first/first.md)
+#####[UI系统介绍](/ui/ui.md)
 
-#### [creator代码组件](/componet/componet.md)
+#####[create创建第一个项目](/first/first.md)
 
-#### [cc.Node(1)场景树](/nodeTree/nodeTree.md)
+#####[creator代码组件](/componet/componet.md)
 
-#### [cc.Node(2)事件响应](/event/event.md)
+#####[cc.Node(1)场景树](/nodeTree/nodeTree.md)
 
-#### [cc.Node坐标空间](/position/position.md)
+#####[cc.Node(2)事件响应](/event/event.md)
+
+#####[cc.Node坐标空间](/position/position.md)
 
 #### 微信小游戏项目技术点总结
 
