@@ -20,3 +20,5 @@
 
 ##### 2.[项目中存储localStorage组件封装](/componet/localStorage.md)
 
+##### 3.[项目中的数据交互组件封装](/componet/HttpRequest)
+
