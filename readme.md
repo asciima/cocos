@@ -23,3 +23,5 @@
 ##### 3.[项目中的数据交互组件封装](/componet/HttpRequest.md)
 
 ##### 4.[关闭按钮组件封装](/componet/CloseModalLayer.md)
+
+##### 5.[活动通知组件封装](/componet/NoticeManager.md)
