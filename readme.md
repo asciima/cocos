@@ -14,7 +14,9 @@
 
 ##### [cc.Node坐标空间](/position/position.md)
 
-##### [Action使用](//componet/action.md)
+##### [Action使用](/componet/action.md)
+
+##### [cc.Component使用](/componet/ComponentUse.md)
 
 #### 微信小游戏项目技术点总结
 
