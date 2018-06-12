@@ -14,6 +14,8 @@
 
 ##### [cc.Node坐标空间](/position/position.md)
 
+##### [Action使用](//componet/action.md)
+
 #### 微信小游戏项目技术点总结
 
 ##### 1.[项目中公用组件解析](/componet/comFunc.md)
@@ -27,3 +29,4 @@
 ##### 5.[活动通知组件封装](/componet/NoticeManager.md)
 
 ##### 6.[分享功能](//componet/share.md)
+
