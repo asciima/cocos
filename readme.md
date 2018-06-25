@@ -30,5 +30,5 @@
 
 ##### 5.[活动通知组件封装](/componet/NoticeManager.md)
 
-##### 6.[分享功能](//componet/share.md)
+##### 6.[分享功能](/componet/share.md)
 
