@@ -18,6 +18,8 @@
 
 ##### [cc.Component使用](/componet/ComponentUse.md)
 
+##### [cc.Sprite使用](/componet/Sprite.md)
+
 #### 微信小游戏项目技术点总结
 
 ##### 1.[项目中公用组件解析](/componet/comFunc.md)
