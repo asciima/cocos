@@ -22,6 +22,8 @@
 
 ##### [cc.Button使用](/componet/Button.md)
 
+##### [cc.Label组件使用](/componet/Label.md)
+
 #### 微信小游戏项目技术点总结
 
 ##### 1.[项目中公用组件解析](/componet/comFunc.md)
