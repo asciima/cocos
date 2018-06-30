@@ -20,6 +20,8 @@
 
 ##### [cc.Sprite使用](/componet/Sprite.md)
 
+##### [cc.Button使用](/componet/Button.md)
+
 #### 微信小游戏项目技术点总结
 
 ##### 1.[项目中公用组件解析](/componet/comFunc.md)
