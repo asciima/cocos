@@ -3,17 +3,28 @@
 * 1:cc.Label是显示文字的组件;
 
 * 2:cc.Label属性面板:
-      String: 文本显示的内容;
-      Horiznotal: 水平对齐的方式: 左 右 居中;
-      Vertial: 上, 下, 居中, 字与行的排版
-      Font Size: 字体大小;
-      LineHeight: 每行的高度;
-      OverFlow:文字排版: 
-               None: 没有任何特性; Clamp: 截断; 
-               Shank:自动缩放到节点大小;  Resize Height: 根据宽度自动折行;
-      Font: ttf字库文件, 位图字体字库文件;
-      Font Family: 字体家族,使用系统的哪种字库;
-      Use System Font: 是否使用系统字体;
+        
+        String: 文本显示的内容;
+        
+        Horiznotal: 水平对齐的方式: 左 右 居中;
+        
+        Vertial: 上, 下, 居中, 字与行的排版
+        
+        Font Size: 字体大小;
+        
+        LineHeight: 每行的高度;
+        
+        OverFlow:文字排版: 
+        
+                None: 没有任何特性; Clamp: 截断; 
+        
+                Shank:自动缩放到节点大小;  Resize Height: 根据宽度自动折行;
+        
+        Font: ttf字库文件, 位图字体字库文件;
+        
+        Font Family: 字体家族,使用系统的哪种字库;
+        
+        Use System Font: 是否使用系统字体;
 
 * 3: Label节点所在的锚点修改;
 
@@ -49,10 +60,16 @@
 * 1:  添加富文本组件;
 
 * 2: 设置富文本的字符内容;
-    <!-- <color=#0fffff>Text</color> 指定文字的颜色;
-     <img src='cow1_1'/>   img标签,文本插入图片，图片要在指定的图集里面;
-     u: 给文本加下划线
-     i: 用斜体来渲染, b: 用粗体来渲染
-     size: 指定字体渲染大小，大小值必须是一个整数 <size=30>enlarge me</size>
-    outline: 设置文本的描边颜色和描边宽度 <outline color=red width=4>A label with outline</outline> -->
+        
+        <color=#0fffff>Text</color> 指定文字的颜色;
+        
+        <img src='cow1_1'/>   img标签,文本插入图片，图片要在指定的图集里面;
+        
+        u: 给文本加下划线
+        
+        i: 用斜体来渲染, b: 用粗体来渲染
+        
+        size: 指定字体渲染大小，大小值必须是一个整数 <size=30>enlarge me</size>
+        
+        outline: 设置文本的描边颜色和描边宽度 <outline color=red width=4>A label with outline</outline>
 
